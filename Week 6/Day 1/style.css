@@ -1,0 +1,19 @@
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+.closed{
+    width: 100px;
+    font-size: 200px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.open{
+    font-size: 200px;
+    cursor: pointer;
+}
+.hidden{
+    display: none;
+}
